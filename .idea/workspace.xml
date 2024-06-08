@@ -4,7 +4,62 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfde2a0d-2bbe-46d1-81ec-0b8df13c35b6" name="Changes" comment="" />
+    <list default="true" id="dfde2a0d-2bbe-46d1-81ec-0b8df13c35b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCore_demau01/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCore_demau01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCore_demau01/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OnThi_De01/KiemTra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OnThi_De01/PhanSo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OnThi_De02/CanBo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OnThi_De02/CongNhan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OnThi_De02/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OnThi_De02/KySu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OnThi_De02/NhanVienPhucVu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OnThi_De02/QLCB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/com.credit.vnua/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/com.credit.vnua/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/com.credit.vnua/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1598434271.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3803894794.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.mylyn.github.ui/avatars.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCore_bai02/TamGiac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCore_bai02/TamGiac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCore_bai03/HocSinh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCore_bai03/HocSinh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCore_bai03/QLHS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCore_bai03/QLHS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCore_bai03/QLNS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCore_bai03/QLNS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,33 +72,96 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2gs2HviTnEms5TZOF33CBRpXaeO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;ignore.preview.features.used&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/TH03111-JavaCore&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/IdeaProjects/TH03111/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CanBo.executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.FECREDIT.Main.executor": "Run",
+    "Application.JavaCore_demau01.Main.executor": "Run",
+    "Application.KiemTra.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.TamGiac.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.fnka.executor": "Run",
+    "Application.test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.preview.features.used": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/UCanAccess-5.0.1-src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/IdeaProjects/TH03111/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.FECREDIT.Main">
-    <configuration name="FECREDIT.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="CanBo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OnThi_De02.CanBo" />
+      <module name="TH03111-JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OnThi_De02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OnThi_De02.Demo" />
+      <module name="TH03111-JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OnThi_De02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KiemTra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OnThi_De01.KiemTra" />
+      <module name="TH03111-JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OnThi_De01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FECREDIT.Main" />
       <module name="TH03111-JavaCore" />
       <extension name="coverage">
@@ -56,25 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.credit.vnua.src.Main" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaCore_demau01.Test" />
       <module name="TH03111-JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.credit.vnua.src.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TamGiac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaCore_bai02.TamGiac" />
-      <module name="TH03111-JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaCore_bai02.*" />
+          <option name="PATTERN" value="JavaCore_demau01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,11 +189,21 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FECREDIT.Main" />
-        <item itemvalue="Application.TamGiac" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.CanBo" />
+        <item itemvalue="Application.KiemTra" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -108,21 +223,28 @@
       <workItem from="1716474116284" duration="224000" />
       <workItem from="1716474348481" duration="73000" />
       <workItem from="1716474513017" duration="52000" />
+      <workItem from="1716474780580" duration="38000" />
+      <workItem from="1716475382595" duration="1156000" />
+      <workItem from="1716476620126" duration="364000" />
+      <workItem from="1716510554098" duration="9447000" />
+      <workItem from="1716603799574" duration="83000" />
+      <workItem from="1716605037825" duration="56000" />
+      <workItem from="1716607171853" duration="257000" />
+      <workItem from="1716607580739" duration="6000" />
+      <workItem from="1716607592778" duration="50000" />
+      <workItem from="1716973633127" duration="388000" />
+      <workItem from="1716974030438" duration="386000" />
+      <workItem from="1717165657809" duration="496000" />
+      <workItem from="1717777433238" duration="4074000" />
+      <workItem from="1717813611778" duration="8476000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

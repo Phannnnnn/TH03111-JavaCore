@@ -11,7 +11,7 @@ public class TamGiac
 
     public TamGiac()
     {
-
+        
     }
 
     public TamGiac(Diem a, Diem b, Diem c)

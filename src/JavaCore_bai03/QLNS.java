@@ -24,10 +24,12 @@ public class QLNS
 
         int chon = 0;
         Nguoi ns = null;
-        for(int i = 0; i<n; i++) {
-            System.out.print("Chọn loại ns muốn nhập (0: hs, 1: sv): ");
+        for(int i = 0; i<n; i++)
+        {
+            System.out.print("Chọn loại ns mun nhập (0: hs, 1: sv): ");
             chon = sc.nextInt(); sc.nextLine();
-            switch (chon) {
+            switch (chon)
+            {
                 case 0:
                     ns = new HocSinh();
                     break;

@@ -6,11 +6,11 @@ import java.util.Scanner;
 
 public class QLHS
 {
-    private List<HocSinh> dshs = new ArrayList<HocSinh>();
+    private List<HocSinh> dshs;
 
     public QLHS()
     {
-
+        dshs = new ArrayList<HocSinh>();
     }
 
     public void themHocSinh(HocSinh hs)
@@ -36,17 +36,19 @@ public class QLHS
 
     public void inDanhSach()
     {
-        for(HocSinh hs : dshs)
-        {
-            hs.inThongTin();
-        }
+//        for(HocSinh hs : dshs)
+//        {
+//            hs.inThongTin();
+//        }
+
+        dshs.forEach(hs -> hs.inThongTin());
     }
 
     public void timKiemHocSinh(int namSinh, String queQuan)
     {
         for(HocSinh hs : dshs)
         {
-            if(hs.ngaySinh.getYear() == namSinh && hs.queQuan.equalsIgnoreCase(queQuan))
+            if(hs.ngaySinh.getYear() +1900 == namSinh && hs.queQuan.equalsIgnoreCase(queQuan))
             {
                 System.out.println("Thông tin học sinh đang tìm:");
                 hs.inThongTin();

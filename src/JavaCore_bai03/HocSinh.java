@@ -7,7 +7,7 @@ public class HocSinh extends Nguoi
 {
     private String lop;
     private String khoaHoc;
-    private String kyHoc;
+    private int kyHoc;
 
     public HocSinh()
     {
@@ -37,7 +37,7 @@ public class HocSinh extends Nguoi
         System.out.print("Nhập  khóa học :");
         khoaHoc = sc.nextLine();
         System.out.print("Nhập kỳ học :");
-        kyHoc = sc.nextLine();
+        kyHoc = sc.nextInt();
     }
 
     @Override
